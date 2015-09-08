@@ -1,0 +1,18 @@
+body{	
+	border-color:blue;
+	padding: 30px 20px 30px 20px;
+	font-family: tahoma
+	border-width:2px;
+	border-style: outset;
+	background-color:#00FFFF;
+}
+
+.s1 {
+	color:#191970;
+}
+.p1 {
+	font-style: italic;
+	text-align: right;
+	text-decoration: underline;
+	font-size: 15px;
+}

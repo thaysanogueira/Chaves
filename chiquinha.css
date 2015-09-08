@@ -1,0 +1,24 @@
+body{	
+	border-color:green;
+	padding: 30px 20px 30px 20px;
+	font-family: tahoma
+	border-width:3px;
+	border-style: solid;
+	background-color:#00FF7F;
+}
+h2{
+	text-align: justify;
+	font-size: 20px;
+}
+.s1 {
+	color:#191970;
+}
+.s2{
+	color: #228B22;
+}
+.p1 {
+	font-style: italic;
+	text-align: right;
+	text-decoration: underline;
+	font-size: 15px;
+}
