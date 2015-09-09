@@ -1,12 +1,12 @@
 body {
 	background-color: #00FF00;
 	color:#FFFFFF;
-	font-size: 50px;
+	font-size: 45px;
 	font-family: tahoma;
 	
 	}
 h1 {
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: bold;
 	background-color: #00FF00;
 	color:#FFFFFF;
@@ -41,8 +41,10 @@ p
 }
 .he {
 	text-align: center;
+	background-position: center
 }
-#img {
-	position: center; 
-	
-	}
+
+a{
+	text-align: right;
+	font-size: 15px;
+}
